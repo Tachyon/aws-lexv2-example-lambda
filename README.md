@@ -28,5 +28,7 @@ These blueprints provide sample code that works with their corresponding bots. Y
    - Click on 'Test'. This will open a test window with the alias settings of current alias.
    - Test!
 
+## Backlog / TODO
 
-
+1. Add suport for other languages supported by Lex V2
+2. Add blueprint in other languages supported by AWS Lambda
